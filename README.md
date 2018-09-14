@@ -8,3 +8,5 @@ Accuracy of the network w/o adversarial attack on the 10000 test images: 97 %
 Accuracy of the network with adversarial attack on the 10000 test images: 14 %
 
 Number of misclassified examples (as compared to clean predictions): 8374/10000
+
+Please check the iPython notebook for visualization of the results.
