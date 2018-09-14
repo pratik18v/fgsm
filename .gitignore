@@ -1,0 +1,6 @@
+*.pkl
+data/*
+model/*
+*.swp
+*.pyc
+.ipynb_checkpoints/*
